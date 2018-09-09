@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769859730893",
+    "firebase_url": "https://controle-de-frota-quebec.firebaseio.com",
+    "project_id": "controle-de-frota-quebec",
+    "storage_bucket": "controle-de-frota-quebec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769859730893:android:bc449c9945c8b6e7",
+        "android_client_info": {
+          "package_name": "com.quebecambiental.controledefrota"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769859730893-f5bv2dsjm4adghhboav4bqrf3oke2krt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quebecambiental.controledefrota",
+            "certificate_hash": "bb5b69c9c0a5a5e4a79567a567fe68066494f29c"
+          }
+        },
+        {
+          "client_id": "769859730893-gknsqlpaag5jqfv8ka1716n35ii6bgq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3ogLwWZTb-OvXmvJUWGYkQkrRvWH1TXQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769859730893-gknsqlpaag5jqfv8ka1716n35ii6bgq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
